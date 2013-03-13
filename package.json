@@ -1,0 +1,11 @@
+{
+  "name": "goole-io-hammer",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "httpreq": "~0.2.7",
+    "async": "~0.2.6"
+  }
+}
